@@ -17,23 +17,19 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100053549552408",
-    "61557118090040",
-    "100041394069745",
-    "61560240322838",
-		"61560931561254"
+    "100090780957801"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "Cliff Vincent",
-  "AGE": "18",
+  "OWNER": "Athanasius Roger",
+  "AGE": "17",
   "GENDER": "MALE",
-  "nickNameBot": "Yazkybot",
-  "FACEBOOK": "https://www.facebook.com/swordigo.swordslush",
-  "prefix": "✓",
+  "nickNameBot": "ATH ATH",
+  "FACEBOOK": "https://www.facebook.com/profile.php?id=61564708551477",
+  "prefix": "/",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
